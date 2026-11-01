@@ -27,13 +27,3 @@ Set-based thinking, careful handling of substrings and positions, and a
 class-based design in Python. It is an early programming project, not a
 finance tool.
 
-## My current work
-
-These days I apply the same habit of separating signal from noise to
-quantitative macro research:
-
-- [FedWatch](https://github.com/puvanat21exls/fedwatch-fomc-realtime): a
-  pre-registered study of whether real-time macro data predicts FOMC decisions
-- [CRE Watchtower](https://github.com/puvanat21exls/cre-watchtower-bank-stress):
-  commercial real estate stress across US regional banks
-- [What Drives Bitcoin?](https://github.com/puvanat21exls/bitcoin-drivers-study)
